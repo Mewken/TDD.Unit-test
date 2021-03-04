@@ -1,4 +1,4 @@
-package Clock;
+package src.Clock;
 
 /**
  * @Created 19/02/2021
