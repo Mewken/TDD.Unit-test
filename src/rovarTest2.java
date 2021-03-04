@@ -1,4 +1,7 @@
+package src;
+
 import org.junit.Test;
+import src.rovar;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

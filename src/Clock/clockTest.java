@@ -1,4 +1,4 @@
-package Clock;
+package src.Clock;
 
 import org.junit.Test;
 import org.junit.jupiter.api.BeforeEach;

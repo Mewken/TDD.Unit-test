@@ -1,3 +1,5 @@
+package src;
+
 public final class rovar {
 
     //Det är fel i koden, därför får vi inte ut rätt när kör genom koden.
